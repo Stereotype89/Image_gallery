@@ -1,1 +1,1 @@
-Practical tasks using library "SimpleLightbox" to create an image gallery.
+Practical tasks using "JavaScript" and library "SimpleLightbox" to create an image gallery.
